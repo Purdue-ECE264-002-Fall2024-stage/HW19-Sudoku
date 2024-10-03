@@ -45,6 +45,4 @@ Volume 124" published by www.kappabooks.com.
 Submission
 ==========
 
-You need to modify main.c, sudoku.c, and create your own sudoku.h
-
-Submit your code on gradescope.
+You need to modify main.c, sudoku.c, and create your own sudoku.h. Submit these files to gradescope.
