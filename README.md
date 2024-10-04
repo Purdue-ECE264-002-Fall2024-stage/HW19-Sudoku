@@ -46,3 +46,5 @@ Submission
 ==========
 
 You need to modify main.c, sudoku.c, and create your own sudoku.h. Submit these files to gradescope.
+
+The assignment is due at 11:59 pm on November 26, 2024. The late due date is 11:59 pm on December 1, 2024.
